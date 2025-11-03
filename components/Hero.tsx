@@ -6,7 +6,7 @@ const Hero = () => {
       <div className="absolute inset-0 bg-primary-dark bg-opacity-60"></div>
       <div 
         className="absolute inset-0 bg-cover bg-center" 
-        style={{ backgroundImage: "url('https://images.unsplash.com/photo-1549936842-c24954da844a?q=80&w=1920&auto=format&fit=crop')" }}
+        style={{ backgroundImage: "url('https://images.unsplash.com/photo-1599599810694-b5b37304c047?q=80&w=1920&auto=format&fit=crop')" }}
       ></div>
       <div className="relative z-10 text-center px-4">
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-extrabold mb-4 drop-shadow-lg leading-tight">
